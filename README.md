@@ -1,4 +1,5 @@
-# Coicons
+# Coicons CSS
+
 
 Coicons CSS is a cool, elegent, and cross-browser css icon library for you to use in your projects.
 
