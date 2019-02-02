@@ -5,10 +5,11 @@
 1. Include the stylesheet on your document's `<head>`
 
 
-
-'<head>'
+```html
+<head>
   <link href="https://coicons.github.io/coicons/coicons.min.css" rel="stylesheet">
-'</head>'
+</head>
+```
 
 
 
