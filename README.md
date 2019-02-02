@@ -16,10 +16,10 @@ Coicons CSS is a cool, elegent, and cross-browser css icon library for you to us
 
 
 
-2. Add the class `coi` followed by another class `coi-*icon-name*` to an `<i>` tag to display your Coicon. You may also replace with the class `coi-svg` for SVGs which provide better scaling.
+2. Add the class `coi` followed by another class `coi-*icon-name*` to an `<i>` tag to display your coicon. You may also replace with the class `coi-svg` for SVGs which provide better scaling.
 
 3. For default PNG icons three classes are applicable:
-    `_coi (default)` | `coi-sm (small)` | `coi-lg  (large)`
+    `coi (default)` | `coi-sm (small)` | `coi-lg  (large)`
 
 4. For SVG icons three classes are also applicable:
    `coi-svg (default)` | `coi-svg-sm (small)` | `coi-svg-lg  (large)`
