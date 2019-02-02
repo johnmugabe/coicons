@@ -7,7 +7,7 @@
 
 ```html
 <head>
-  <link href="https://coicons.github.io/coicons/coicons.min.css" rel="stylesheet">
+  <link href="https://goo.gl/9CPwDt" rel="stylesheet">
 </head>
 ```
 
@@ -24,7 +24,7 @@
 
 Full example:
 
------------- html -------------
+```html
 
 #PNG
 
@@ -34,7 +34,7 @@ Full example:
 
 <i class="coi-svg coi-32bit"></i>
 
---------------------------------
+```
 
 ## Usage
 
