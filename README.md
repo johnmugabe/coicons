@@ -24,14 +24,15 @@
 
 Full example:
 
-```html
+
 
 ######PNG
+```html
 <i class="coi coi-32bit"></i>
-
+```
 ######SVG
+```html
 <i class="coi-svg coi-32bit"></i>
-
 ```
 
 ## Usage
