@@ -4,13 +4,13 @@
 
 1. Include the stylesheet on your document's `<head>`
 
------------- html -------------
+'''html
 
 <head>
   <link href="https://coicons.github.io/coicons/coicons.min.css" rel="stylesheet">
 </head>
 
--------------------------------
+'''
 
 2. Add the class `coi` followed by another class [ coi-*icon-name* ] to an <i> tag to display your Coicon. You may also replace with the class `coi-svg` for SVGs which provide better scaling.
 
