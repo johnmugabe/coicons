@@ -16,10 +16,10 @@
 2. Add the class `coi` followed by another class [ coi-*icon-name* ] to an <i> tag to display your Coicon. You may also replace with the class `coi-svg` for SVGs which provide better scaling.
 
 3. For default PNG icons three classes are applicable:
-   coi (default) | coi-sm (small) | coi-lg  (large)
+   **_coi (default)_** | coi-sm (small) | coi-lg  (large)
 
 4. For SVG icons three classes are also applicable:
-   coi-svg (default) | coi-svg-sm (small) | coi-svg-lg  (large)
+   **_coi-svg (default)_** | **_coi-svg-sm (small)_** | **_coi-svg-lg  (large)_**
 
 
 Full example:
@@ -38,7 +38,7 @@ Full example:
 
 ## Usage
 
-To use Coicons CSS in your website, simply drop the stylesheet into your document's `<head>`, and add the class `coi` to an <i> tag, along with any of the icon names. That's it! 
+To use Coicons CSS in your website, simply drop the stylesheet into your document's `<head>`, and add the class `coi` to an <i> tag, along with any of the icon names. That's it! :+1:
 
 
 ## License
