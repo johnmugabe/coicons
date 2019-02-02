@@ -1,7 +1,7 @@
 Coicons CSS is a cool, elegent, and cross-browser css icon library for you to use in your projects.
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+
+![#c5f015] `COICONS`
 
 
 ## Basic Usage
