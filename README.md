@@ -26,11 +26,11 @@ Full example:
 
 
 
-######PNG
+###### PNG
 ```html
 <i class="coi coi-32bit"></i>
 ```
-######SVG
+###### SVG
 ```html
 <i class="coi-svg coi-32bit"></i>
 ```
