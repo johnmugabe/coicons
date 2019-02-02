@@ -1,7 +1,6 @@
+# Coicons
+
 Coicons CSS is a cool, elegent, and cross-browser css icon library for you to use in your projects.
-
-![#c5f015]( codcdn  )
-
 
 ## Basic Usage
 
