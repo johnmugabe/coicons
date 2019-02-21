@@ -1,2 +1,12 @@
 plugins:
   - jekyll-seo-tag
+
+ 
+title: Coicons CSS
+email: jonesmugabe08gmail.com
+author: "John Mugabe"
+description: "A lightweight, CSS icon library. Similar to Emoji but with a touch of elegance."
+keywords: "emoji, css icons, color icons, library, image"
+
+twitter_username: johnmugabe8
+github_username:  johnmugabe
